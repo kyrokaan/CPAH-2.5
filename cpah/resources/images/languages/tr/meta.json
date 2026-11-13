@@ -1,0 +1,9 @@
+{
+  "name": "Türkçe",
+  "daemons_gap_size": 60.0,
+  "daemons": {
+    "datamine_v1": "BASİT VERİ MADENİ",
+    "datamine_v2": "GELİŞMİŞ VERİ MADENİ",
+    "datamine_v3": "UZMAN VERİ MADENİ"
+  }
+}

@@ -1,0 +1,12 @@
+.version
+.version_old
+.asset_links.json
+__pycache__/
+.venv/
+.uv-cache/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+report.xml
+public/
