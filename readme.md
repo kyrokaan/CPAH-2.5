@@ -4,4 +4,4 @@
 
 Cyberpunk 2077’deki Breach Protocol bulmacalarını çözmeye yardımcı olur. Kısa demo aşağıda.
 
-https://github.com/user-attachments/assets/5254c645-e1c1-4a62-a015-f83b3841ee2c
+https://github.com/user-attachments/assets/3c31665e-8cd1-457b-9796-41b4f7ca241f
